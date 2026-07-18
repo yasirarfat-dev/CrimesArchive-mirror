@@ -1,0 +1,234 @@
+{
+  "id": "20000000-0000-0000-0000-000000000001",
+  "slug": "nila-khatun-murder-case-2022",
+  "title": {
+    "en": "Nila Khatun Rape & Murder Case",
+    "bn": "নীলা খাতুন ধর্ষণ ও হত্যা মামলা"
+  },
+  "summary": {
+    "en": "A 19-year-old garment worker was found dead three days after she failed to return home from her shift. Family alleges police initially refused to register the FIR.",
+    "bn": "১৯ বছরের একজন পোশাক শ্রমিককে শিফট থেকে বাসায় না ফেরার তিন দিন পর মৃত উদ্ধার করা হয়। পরিবার অভিযোগ করেছে প্রাথমিকভাবে পুলিশ এফআইআর নিতে অস্বীকার করেছিল।"
+  },
+  "incidentContext": {
+    "en": "Set against a backdrop of long-standing tensions in Narayanganj's industrial belt, this incident drew the attention of human rights observers within days. Local civil society had previously documented a pattern of similar grievances in the area, several of which remain unresolved.",
+    "bn": "নারায়ণগঞ্জের শিল্পাঞ্চলে দীর্ঘদিনের চাপা টানাপোড়েনের প্রেক্ষাপটে ঘটে যাওয়া এই ঘটনাটি কয়েক দিনের মধ্যে মানবাধিকার পর্যবেক্ষকদের নজরে আসে।"
+  },
+  "incidentDescription": {
+    "en": "According to the case file and published reports, Nila Khatun did not return from work on 15 March 2022. Her family searched local clinics, police stations, and the route between the factory and home before her body was recovered three days later. The archive records the allegations, investigation steps, and court proceedings as they are supported by filings and public reporting.",
+    "bn": "মামলার নথি ও প্রকাশিত প্রতিবেদনের ভিত্তিতে, ২০২২ সালের ১৫ মার্চ নীলা খাতুন কাজ থেকে বাড়ি ফেরেননি। তার পরিবার কারখানা থেকে বাড়ির পথ, স্থানীয় ক্লিনিক এবং থানায় খোঁজ করার পর তিন দিন পরে তার মরদেহ উদ্ধার হয়। অভিযোগ, তদন্তের ধাপ এবং আদালতের অগ্রগতি সূত্র ও প্রকাশ্য প্রতিবেদনের ভিত্তিতে এই আর্কাইভে নথিভুক্ত করা হয়েছে।"
+  },
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Workplace",
+        "bn": "কর্মস্থল"
+      },
+      "value": {
+        "en": "Victim worked at a registered export-processing zone factory",
+        "bn": "ভুক্তভোগী একটি রপ্তানি প্রক্রিয়াকরণ অঞ্চলের কারখানায় কাজ করতেন"
+      }
+    },
+    {
+      "label": {
+        "en": "FIR delay",
+        "bn": "এফআইআর বিলম্ব"
+      },
+      "value": {
+        "en": "FIR registration delayed 72 hours",
+        "bn": "এফআইআর দাখিলে ৭২ ঘণ্টা বিলম্ব"
+      }
+    },
+    {
+      "label": {
+        "en": "Suspects",
+        "bn": "সন্দেহভাজন"
+      },
+      "value": {
+        "en": "Three suspects identified by CCTV footage; two remain at large",
+        "bn": "সিসিটিভি ফুটেজে তিনজন সন্দেহভাজন চিহ্নিত; দুজন পলাতক"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 3,
+  "severity": "atrocity",
+  "locationAddress": {
+    "en": "Fatullah Industrial Area, Narayanganj",
+    "bn": "ফতুল্লা শিল্প এলাকা, নারায়ণগঞ্জ"
+  },
+  "locationLat": 23.6238,
+  "locationLng": 90.5,
+  "geo": {
+    "divisionId": 6,
+    "districtId": 43,
+    "upazilaId": null,
+    "unionId": null
+  },
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:27.192+00:00",
+  "crimeType": "murder",
+  "district": "Narayanganj",
+  "districtBn": "নারায়ণগঞ্জ",
+  "court": "Narayanganj District & Sessions Judge Court",
+  "incidentDate": "2022-03-15",
+  "status": "trial_in_progress",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2022-04-01T03:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:27.247823+00:00",
+  "lastUpdatedAt": "2026-07-03T17:40:59.023+00:00",
+  "publishedAt": "2022-04-01T03:00:00+00:00",
+  "daysSinceIncident": 1586,
+  "daysSinceLastUpdate": 14,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000001",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "role": "victim",
+      "nameEn": "Nila Khatun",
+      "nameBn": "নীলা খাতুন",
+      "age": 19,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Garment worker",
+      "notes": null
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000002",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "role": "accused",
+      "nameEn": "Jashim Mondol",
+      "nameBn": "জসিম মন্ডল",
+      "age": 34,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Security guard",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000001",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "kind": "fir_filed",
+      "occurredAt": "2022-03-18",
+      "title": {
+        "en": "FIR registered at Fatullah Police Station",
+        "bn": "ফতুল্লা থানায় এফআইআর নথিভুক্ত"
+      },
+      "body": {
+        "en": "An FIR was filed under sections 302 and 376 of the Penal Code after a 72-hour delay. Three suspects were identified from CCTV footage.",
+        "bn": "দণ্ডবিধির ৩০২ ও ৩৭৬ ধারায় ৭২ ঘণ্টা বিলম্বের পর এফআইআর দায়ের। সিসিটিভি ফুটেজ থেকে তিনজন সন্দেহভাজন চিহ্নিত।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000002",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "kind": "arrest_made",
+      "occurredAt": "2022-04-02",
+      "title": {
+        "en": "One suspect arrested in Narayanganj",
+        "bn": "নারায়ণগঞ্জে একজন সন্দেহভাজন গ্রেপ্তার"
+      },
+      "body": {
+        "en": "Jashim Mondol was arrested at a relative's residence in Siddhirganj. Two co-accused remain at large.",
+        "bn": "জসিম মন্ডলকে সিদ্ধিরগঞ্জে এক আত্মীয়ের বাসায় গ্রেপ্তার করা হয়। দুজন সহ-আসামি এখনো পলাতক।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000003",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "kind": "charge_sheet_submitted",
+      "occurredAt": "2022-09-05",
+      "title": {
+        "en": "Charge sheet filed naming three accused",
+        "bn": "তিন আসামির বিরুদ্ধে অভিযোগপত্র দাখিল"
+      },
+      "body": {
+        "en": "The investigating officer submitted a charge sheet to Narayanganj Sessions Court naming all three accused. Trial date set for January 2023.",
+        "bn": "তদন্তকারী কর্মকর্তা তিন আসামির নাম উল্লেখ করে অভিযোগপত্র দাখিল করেন। জানুয়ারি ২০২৩-এ বিচারের তারিখ নির্ধারিত।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000001",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "kind": "news_report",
+      "title": "Garment worker found dead in Narayanganj; family alleges police delay",
+      "publisher": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/bangladesh/crime/news-dev-001",
+      "publishedAt": "2022-03-18",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000002",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "kind": "news_report",
+      "title": "Narayanganj garment worker murder: FIR filed after three-day delay",
+      "publisher": "Dhaka Tribune",
+      "url": "https://www.dhakatribune.com/bangladesh/crime/news-dev-001",
+      "publishedAt": "2022-03-20",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000003",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "kind": "official_statement",
+      "title": "Narayanganj Police: charge sheet against three accused submitted to court",
+      "publisher": "Bangladesh Sangbad Sangstha",
+      "url": "https://bssnews.net/news/dev-001",
+      "publishedAt": "2022-09-05",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "b66298b4-63a0-4d2e-9e6e-b3dc3492ff91",
+      "caseId": "20000000-0000-0000-0000-000000000001",
+      "kind": "other",
+      "title": "Sample handover verification document",
+      "fileName": "crimesarchive-handover-sample.pdf",
+      "mimeType": "application/pdf",
+      "sizeBytes": 643,
+      "pageCount": null,
+      "uploadedAt": "2026-07-03T17:42:28.075046+00:00",
+      "uploadedBy": "b1c058cc-aa29-41ee-8576-3823308bd692",
+      "hasRedaction": false,
+      "previewUrl": "/api/documents/b66298b4-63a0-4d2e-9e6e-b3dc3492ff91"
+    }
+  ],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000006",
+      "slug": "femicide",
+      "label": {
+        "en": "Femicide",
+        "bn": "নারীহত্যা"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

@@ -1,0 +1,169 @@
+{
+  "id": "20000000-0000-0000-0000-000000000007",
+  "slug": "sylhet-tea-estate-shooting-2021",
+  "title": {
+    "en": "Sylhet Tea-Estate Worker Shooting",
+    "bn": "সিলেট চা-বাগান শ্রমিক গুলি"
+  },
+  "summary": {
+    "en": "A tea-estate worker was shot during a wage protest. Two managers were named in the FIR; neither was arrested for 47 days.",
+    "bn": "একটি মজুরি প্রতিবাদের সময় একজন চা-বাগান শ্রমিক গুলিতে নিহত হন। এফআইআরে দুজন ব্যবস্থাপকের নাম থাকলেও কেউই ৪৭ দিন পর্যন্ত গ্রেপ্তার হননি।"
+  },
+  "incidentContext": {
+    "en": "Workers at the Shahjalal Tea Estate in Srimangal had been protesting for six weeks over unpaid wage arrears. The estate management had applied for a wage-freeze extension.",
+    "bn": "শ্রীমঙ্গলের শাহজালাল চা এস্টেটের শ্রমিকরা ছয় সপ্তাহ ধরে অপরিশোধিত মজুরি বকেয়া নিয়ে বিক্ষোভ করছিলেন।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Victim Rajesh Lohar, 31, was a second-generation estate worker",
+        "bn": "ভুক্তভোগী রাজেশ লোহার, ৩১, দ্বিতীয় প্রজন্মের এস্টেট শ্রমিক"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "Live ammunition fired at protesters; five others injured",
+        "bn": "প্রতিবাদকারীদের দিকে জীবন্ত গুলি; আরও পাঁচজন আহত"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "ILO and ITUC issued joint statement calling for investigation",
+        "bn": "আইএলও ও আইটিইউসি তদন্তের দাবিতে যৌথ বিবৃতি দিয়েছে"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 2,
+  "severity": "grave",
+  "locationAddress": {
+    "en": "Srimangal, Moulvibazar",
+    "bn": "শ্রীমঙ্গল, মৌলভীবাজার"
+  },
+  "locationLat": 24.305,
+  "locationLng": 91.731,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.634+00:00",
+  "crimeType": "labour_rights_violation",
+  "district": "Sylhet",
+  "districtBn": "সিলেট",
+  "court": "Moulvibazar District & Sessions Judge Court",
+  "incidentDate": "2021-08-25",
+  "status": "justice_delayed",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2021-09-15T04:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.689957+00:00",
+  "lastUpdatedAt": "2024-02-01T03:00:00+00:00",
+  "publishedAt": "2021-09-15T04:00:00+00:00",
+  "daysSinceIncident": 1788,
+  "daysSinceLastUpdate": 898,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000007",
+      "caseId": "20000000-0000-0000-0000-000000000007",
+      "role": "victim",
+      "nameEn": "Rajesh Lohar",
+      "nameBn": "রাজেশ লোহার",
+      "age": 31,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Tea-estate worker",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000013",
+      "caseId": "20000000-0000-0000-0000-000000000007",
+      "kind": "media_report",
+      "occurredAt": "2021-08-25",
+      "title": {
+        "en": "Worker shot dead during wage protest",
+        "bn": "মজুরি বিক্ষোভে শ্রমিক নিহত"
+      },
+      "body": {
+        "en": "Rajesh Lohar was shot during a wage protest at the Shahjalal Tea Estate. Five other workers were injured.",
+        "bn": "শাহজালাল চা এস্টেটে মজুরি বিক্ষোভে রাজেশ লোহার গুলিবিদ্ধ হন। পাঁচজন আহত।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000014",
+      "caseId": "20000000-0000-0000-0000-000000000007",
+      "kind": "editorial_note",
+      "occurredAt": "2024-02-01",
+      "title": {
+        "en": "Trial delayed; managers out on bail",
+        "bn": "বিচার বিলম্বিত; ব্যবস্থাপকরা জামিনে"
+      },
+      "body": {
+        "en": "The two managers were arrested 47 days after the incident and released on bail shortly after. The trial has been postponed six times.",
+        "bn": "দুজন ব্যবস্থাপক ৪৭ দিন পর গ্রেপ্তার হয়ে শীঘ্রই জামিনে মুক্তি পান। বিচার ছয়বার স্থগিত।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-00000000000f",
+      "caseId": "20000000-0000-0000-0000-000000000007",
+      "kind": "news_report",
+      "title": "Tea worker shot dead during Srimangal wage protest",
+      "publisher": "Prothom Alo",
+      "url": "https://www.prothomalo.com/bangladesh/crime/news-dev-007",
+      "publishedAt": "2021-08-26",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000010",
+      "caseId": "20000000-0000-0000-0000-000000000007",
+      "kind": "news_report",
+      "title": "ILO and ITUC call for investigation into Sylhet tea-estate shooting",
+      "publisher": "New Age",
+      "url": "https://www.newagebd.net/article/news-dev-007",
+      "publishedAt": "2021-09-01",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000001",
+      "slug": "labour-rights",
+      "label": {
+        "en": "Labour Rights",
+        "bn": "শ্রম অধিকার"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

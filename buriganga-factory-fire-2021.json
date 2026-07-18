@@ -1,0 +1,234 @@
+{
+  "id": "20000000-0000-0000-0000-000000000003",
+  "slug": "buriganga-factory-fire-2021",
+  "title": {
+    "en": "Buriganga Chemical Factory Fire",
+    "bn": "বুড়িগঙ্গা রাসায়নিক কারখানা অগ্নিকাণ্ড"
+  },
+  "summary": {
+    "en": "An overnight fire at a chemical-storage facility killed at least 27 workers, most of whom were locked inside the lower floor. Building violated five separate fire-code requirements.",
+    "bn": "একটি রাসায়নিক গুদামে রাতের অগ্নিকাণ্ডে অন্তত ২৭ জন শ্রমিক নিহত হয়েছেন, যাদের অধিকাংশই নিচতলায় তালাবদ্ধ ছিলেন।"
+  },
+  "incidentContext": {
+    "en": "The factory had previously been flagged by district safety inspectors in 2019 and 2020. Both inspection reports were filed but no follow-up action was recorded.",
+    "bn": "কারখানাটি ২০১৯ ও ২০২০ সালে জেলা নিরাপত্তা পরিদর্শকদের দ্বারা পূর্বেই চিহ্নিত হয়েছিল। উভয় পরিদর্শন প্রতিবেদন দাখিল করা হলেও কোনো অনুসরণমূলক ব্যবস্থার রেকর্ড নেই।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "27 confirmed dead; 14 injured",
+        "bn": "২৭ জন নিহত নিশ্চিত; ১৪ জন আহত"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "Building had no fire exits on the ground floor",
+        "bn": "ভবনের নিচতলায় কোনো ফায়ার এক্সিট ছিল না"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "Owner arrested; released on bail after 21 days",
+        "bn": "মালিক গ্রেপ্তার; ২১ দিন পর জামিনে মুক্তি"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 4",
+        "bn": "তথ্য 4"
+      },
+      "value": {
+        "en": "No charge sheet after three years",
+        "bn": "তিন বছরেও অভিযোগপত্র নেই"
+      }
+    }
+  ],
+  "victimsCount": 27,
+  "accusedCount": 2,
+  "severity": "atrocity",
+  "locationAddress": {
+    "en": "Keraniganj, Dhaka",
+    "bn": "কেরানীগঞ্জ, ঢাকা"
+  },
+  "locationLat": 23.7099,
+  "locationLng": 90.3875,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.171+00:00",
+  "crimeType": "factory_negligence",
+  "district": "Dhaka",
+  "districtBn": "ঢাকা",
+  "court": "Dhaka Metropolitan Magistrate Court",
+  "incidentDate": "2021-09-12",
+  "status": "justice_delayed",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2021-10-01T02:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.246096+00:00",
+  "lastUpdatedAt": "2024-06-01T03:00:00+00:00",
+  "publishedAt": "2021-10-01T02:00:00+00:00",
+  "daysSinceIncident": 1770,
+  "daysSinceLastUpdate": 777,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000004",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "role": "accused",
+      "nameEn": "Anwar Pramanik",
+      "nameBn": "আনোয়ার প্রামাণিক",
+      "age": 52,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Factory owner",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000007",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "kind": "media_report",
+      "occurredAt": "2021-09-12",
+      "title": {
+        "en": "Fire breaks out; 27 workers killed",
+        "bn": "আগুন লাগে; ২৭ জন শ্রমিক নিহত"
+      },
+      "body": {
+        "en": "An overnight fire at a chemical-storage facility in Keraniganj killed 27 workers. Fire service confirmed the lower floor was locked from the outside.",
+        "bn": "কেরানীগঞ্জে রাসায়নিক গুদামে অগ্নিকাণ্ডে ২৭ শ্রমিক নিহত। ফায়ার সার্ভিস নিশ্চিত করেছে নিচতলা বাইরে থেকে তালাবদ্ধ ছিল।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000008",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "kind": "arrest_made",
+      "occurredAt": "2021-09-16",
+      "title": {
+        "en": "Factory owner arrested at airport",
+        "bn": "বিমানবন্দরে কারখানা মালিক গ্রেপ্তার"
+      },
+      "body": {
+        "en": "Anwar Pramanik was arrested at Hazrat Shahjalal International Airport while attempting to board a flight.",
+        "bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে প্লেনে ওঠার চেষ্টাকালে আনোয়ার প্রামাণিককে গ্রেপ্তার করা হয়।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000009",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "kind": "bail_decision",
+      "occurredAt": "2021-10-08",
+      "title": {
+        "en": "Owner released on bail after 21 days",
+        "bn": "২১ দিন পর মালিক জামিনে মুক্তি"
+      },
+      "body": {
+        "en": "Dhaka Metropolitan Magistrate Court granted bail. Families of victims protested outside the court.",
+        "bn": "ঢাকা মেট্রোপলিটন ম্যাজিস্ট্রেট কোর্ট জামিন মঞ্জুর করে। ভুক্তভোগীদের পরিবার আদালতের বাইরে বিক্ষোভ করে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-00000000000a",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "kind": "hearing_postponed",
+      "occurredAt": "2024-06-01",
+      "title": {
+        "en": "No charge sheet after three years",
+        "bn": "তিন বছরেও অভিযোগপত্র নেই"
+      },
+      "body": {
+        "en": "The case file has been transferred twice between magistrate courts. No charge sheet as of June 2024, over 1,000 days after the fire.",
+        "bn": "মামলার নথি দুইবার ম্যাজিস্ট্রেট আদালতে স্থানান্তর। জুন ২০২৪ পর্যন্ত, আগুনের ১০০০ দিনেরও বেশি পরেও অভিযোগপত্র নেই।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000006",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "kind": "news_report",
+      "title": "27 dead in Keraniganj chemical factory fire; workers were locked in",
+      "publisher": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/bangladesh/crime/news-dev-003",
+      "publishedAt": "2021-09-13",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000007",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "kind": "official_statement",
+      "title": "Dhaka Metropolitan Police: factory owner arrested in connection with fire",
+      "publisher": "Bangladesh Sangbad Sangstha",
+      "url": "https://bssnews.net/news/dev-003",
+      "publishedAt": "2021-09-16",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000008",
+      "caseId": "20000000-0000-0000-0000-000000000003",
+      "kind": "news_report",
+      "title": "Factory fire case: owner released on bail after 21 days",
+      "publisher": "Dhaka Tribune",
+      "url": "https://www.dhakatribune.com/bangladesh/crime/news-dev-003b",
+      "publishedAt": "2021-10-08",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000008",
+      "slug": "workplace-safety",
+      "label": {
+        "en": "Workplace Safety",
+        "bn": "কর্মক্ষেত্র নিরাপত্তা"
+      }
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000001",
+      "slug": "labour-rights",
+      "label": {
+        "en": "Labour Rights",
+        "bn": "শ্রম অধিকার"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

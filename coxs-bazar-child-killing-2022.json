@@ -1,0 +1,160 @@
+{
+  "id": "20000000-0000-0000-0000-000000000009",
+  "slug": "coxs-bazar-child-killing-2022",
+  "title": {
+    "en": "Cox's Bazar Camp Child Killing",
+    "bn": "কক্সবাজার ক্যাম্পে শিশু হত্যা"
+  },
+  "summary": {
+    "en": "A 9-year-old child was killed inside the refugee camp during a faction clash. Local police have not filed a charge sheet.",
+    "bn": "একটি ক্যাম্পের ভেতরে দলীয় সংঘর্ষের সময় ৯ বছর বয়সী একটি শিশু নিহত হয়।"
+  },
+  "incidentContext": {
+    "en": "The child was caught in crossfire during a factional dispute in Block C-14 of the Kutupalong settlement. Four adult witnesses filed statements; all subsequently withdrew, citing fear of reprisal.",
+    "bn": "শিশুটি কুতুপালং বসতির ব্লক সি-১৪-এ দলীয় বিরোধের সময় ক্রসফায়ারে পড়ে। চারজন প্রাপ্তবয়স্ক সাক্ষী বিবৃতি দেয়; প্রতিশোধের ভয়ে সকলেই পরে তা প্রত্যাহার করে নেয়।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Victim identity anonymized per editorial policy (minor)",
+        "bn": "সম্পাদকীয় নীতি অনুযায়ী ভুক্তভোগীর পরিচয় বেনামী (অপ্রাপ্তবয়স্ক)"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "UNHCR logged the incident; referred to Bangladesh police liaison",
+        "bn": "ইউএনএইচসিআর ঘটনাটি নথিভুক্ত করেছে; বাংলাদেশ পুলিশ লিয়াজোঁতে রেফার"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "No charge sheet after 18 months",
+        "bn": "১৮ মাস পরও অভিযোগপত্র নেই"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 0,
+  "severity": "atrocity",
+  "locationAddress": {
+    "en": "Kutupalong, Cox's Bazar",
+    "bn": "কুতুপালং, কক্সবাজার"
+  },
+  "locationLat": 21.21,
+  "locationLng": 92.152,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.86+00:00",
+  "crimeType": "murder",
+  "district": "Cox's Bazar",
+  "districtBn": "কক্সবাজার",
+  "court": null,
+  "incidentDate": "2022-12-03",
+  "status": "investigation_stalled",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2023-01-15T03:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.919014+00:00",
+  "lastUpdatedAt": "2024-05-01T04:00:00+00:00",
+  "publishedAt": "2023-01-15T03:00:00+00:00",
+  "daysSinceIncident": 1323,
+  "daysSinceLastUpdate": 808,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000009",
+      "caseId": "20000000-0000-0000-0000-000000000009",
+      "role": "victim",
+      "nameEn": null,
+      "nameBn": null,
+      "age": 9,
+      "isMinor": true,
+      "anonymized": true,
+      "redactionReason": "minor",
+      "occupation": null,
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000017",
+      "caseId": "20000000-0000-0000-0000-000000000009",
+      "kind": "media_report",
+      "occurredAt": "2022-12-04",
+      "title": {
+        "en": "Child killed in Kutupalong faction clash",
+        "bn": "কুতুপালং দলীয় সংঘর্ষে শিশু নিহত"
+      },
+      "body": {
+        "en": "A 9-year-old was caught in crossfire in Block C-14. Four witnesses filed statements and subsequently withdrew all four, citing fear.",
+        "bn": "ব্লক সি-১৪-এ ৯ বছরের শিশু ক্রসফায়ারে পড়ে। চার সাক্ষী বিবৃতি দিয়ে পরে ভয়ে প্রত্যাহার করে নেয়।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000018",
+      "caseId": "20000000-0000-0000-0000-000000000009",
+      "kind": "editorial_note",
+      "occurredAt": "2024-05-01",
+      "title": {
+        "en": "No charge sheet; 18 months elapsed",
+        "bn": "অভিযোগপত্র নেই; ১৮ মাস পেরিয়ে"
+      },
+      "body": {
+        "en": "Bangladesh police confirm no charge sheet has been filed. The case risks lapse under the Evidence Act's limitation provisions.",
+        "bn": "বাংলাদেশ পুলিশ নিশ্চিত করেছে অভিযোগপত্র নেই। সাক্ষ্য আইনের সীমাবদ্ধতা বিধান অনুযায়ী মামলা বিলোপের ঝুঁকিতে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000013",
+      "caseId": "20000000-0000-0000-0000-000000000009",
+      "kind": "news_report",
+      "title": "Child killed in camp faction clash; police yet to name suspects",
+      "publisher": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/bangladesh/crime/news-dev-009",
+      "publishedAt": "2022-12-05",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000014",
+      "caseId": "20000000-0000-0000-0000-000000000009",
+      "kind": "official_statement",
+      "title": "UNHCR: incident at Kutupalong registered and referred to Bangladesh authorities",
+      "publisher": "UNHCR Bangladesh",
+      "url": "https://www.unhcr.org/bd/news/dev-009",
+      "publishedAt": "2022-12-10",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

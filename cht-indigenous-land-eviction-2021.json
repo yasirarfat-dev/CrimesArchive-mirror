@@ -1,0 +1,155 @@
+{
+  "id": "20000000-0000-0000-0000-00000000000b",
+  "slug": "cht-indigenous-land-eviction-2021",
+  "title": {
+    "en": "Chattogram Hill Tracts Indigenous Land Eviction",
+    "bn": "চট্টগ্রাম পার্বত্য আদিবাসী ভূমি উচ্ছেদ"
+  },
+  "summary": {
+    "en": "An indigenous family was evicted by force from land they had cultivated for three generations. Documentation of the eviction was confiscated by the local administration.",
+    "bn": "একটি আদিবাসী পরিবারকে তিন প্রজন্ম ধরে চাষ করা ভূমি থেকে বল প্রয়োগে উচ্ছেদ করা হয়।"
+  },
+  "incidentContext": {
+    "en": "The Chakma family had been farming a 12-acre plot in Barkal upazila of Rangamati since at least 1958. A private company secured a commercial lease from the district office in March 2021 covering the same parcel.",
+    "bn": "চাকমা পরিবারটি অন্তত ১৯৫৮ সাল থেকে রাঙামাটির বরকল উপজেলায় ১২ একর জমিতে চাষ করে আসছিল।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Family traditional land documents confiscated on site",
+        "bn": "পরিবারের ঐতিহ্যগত ভূমি দলিল ঘটনাস্থলে বাজেয়াপ্ত"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "40 personnel carried out eviction; no court order produced",
+        "bn": "৪০ জন কর্মী উচ্ছেদ করেন; কোনো আদালতের আদেশ দেখানো হয়নি"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "Land Commission ruled against family; appeal pending",
+        "bn": "ভূমি কমিশন পরিবারের বিপক্ষে রায় দেয়; আপিল বিচারাধীন"
+      }
+    }
+  ],
+  "victimsCount": 7,
+  "accusedCount": 3,
+  "severity": "grave",
+  "locationAddress": {
+    "en": "Barkal, Rangamati",
+    "bn": "বরকল, রাঙামাটি"
+  },
+  "locationLat": 22.625,
+  "locationLng": 92.583,
+  "geo": null,
+  "isForgottenFlagged": false,
+  "forgottenFlaggedAt": null,
+  "crimeType": "land_grabbing",
+  "district": "Rangamati",
+  "districtBn": "রাঙামাটি",
+  "court": "CHT Land Commission",
+  "incidentDate": "2021-05-18",
+  "status": "case_closed",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2021-06-15T03:00:00+00:00",
+  "updatedAt": "2026-06-22T11:14:41.573948+00:00",
+  "lastUpdatedAt": "2023-12-01T04:00:00+00:00",
+  "publishedAt": "2021-06-15T03:00:00+00:00",
+  "daysSinceIncident": 1887,
+  "daysSinceLastUpdate": 960,
+  "people": [],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-00000000001b",
+      "caseId": "20000000-0000-0000-0000-00000000000b",
+      "kind": "media_report",
+      "occurredAt": "2021-05-18",
+      "title": {
+        "en": "Indigenous family evicted; land documents confiscated",
+        "bn": "আদিবাসী পরিবার উচ্ছেদ; ভূমি দলিল বাজেয়াপ্ত"
+      },
+      "body": {
+        "en": "40 personnel arrived at the Chakma family plot. No court order was produced. Traditional land documents were seized by accompanying officials.",
+        "bn": "৪০ জন কর্মী চাকমা পরিবারের জমিতে আসেন। কোনো আদালতের আদেশ দেখানো হয়নি। ঐতিহ্যগত ভূমি দলিল জব্দ করা হয়।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-00000000001c",
+      "caseId": "20000000-0000-0000-0000-00000000000b",
+      "kind": "verdict",
+      "occurredAt": "2023-12-01",
+      "title": {
+        "en": "Land Commission rules against family; appeal planned",
+        "bn": "ভূমি কমিশন পরিবারের বিপক্ষে রায়; আপিলের পরিকল্পনা"
+      },
+      "body": {
+        "en": "The CHT Land Commission ruled in favour of the commercial lease holder. The family's legal team announced an appeal before the High Court Division.",
+        "bn": "ভূমি কমিশন বাণিজ্যিক ইজারাধারীর পক্ষে রায় দিয়েছে। পরিবারের আইনজীবী হাইকোর্টে আপিলের ঘোষণা দিয়েছেন।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000017",
+      "caseId": "20000000-0000-0000-0000-00000000000b",
+      "kind": "news_report",
+      "title": "Indigenous family forcibly evicted in Rangamati; documents seized",
+      "publisher": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/bangladesh/crime/news-dev-011",
+      "publishedAt": "2021-05-20",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000018",
+      "caseId": "20000000-0000-0000-0000-00000000000b",
+      "kind": "primary_filing",
+      "title": "CHT Regional Council Legal Aid Desk: complaint filed on behalf of Chakma family",
+      "publisher": "CHT Regional Council",
+      "url": "",
+      "publishedAt": "2021-07-14",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000004",
+      "slug": "indigenous-rights",
+      "label": {
+        "en": "Indigenous Rights",
+        "bn": "আদিবাসী অধিকার"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

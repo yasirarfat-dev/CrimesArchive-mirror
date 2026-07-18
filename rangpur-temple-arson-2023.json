@@ -1,0 +1,173 @@
+{
+  "id": "20000000-0000-0000-0000-000000000006",
+  "slug": "rangpur-temple-arson-2023",
+  "title": {
+    "en": "Rangpur Hindu Temple Arson",
+    "bn": "রংপুর হিন্দু মন্দিরে অগ্নিসংযোগ"
+  },
+  "summary": {
+    "en": "A Hindu temple was set on fire on the night before a major festival. Local authorities initially called it accidental; videos circulated later contradicted this.",
+    "bn": "একটি বড় উৎসবের আগের রাতে একটি হিন্দু মন্দিরে আগুন লাগানো হয়। প্রথমে স্থানীয় প্রশাসন একে দুর্ঘটনা বললেও পরে ভিডিও তা খণ্ডন করে।"
+  },
+  "incidentContext": {
+    "en": "The Kali Mandir in Badarganj was set ablaze at approximately 02:00 on 14 October 2023, the night before Kali Puja. A mobile phone video showed multiple individuals approaching the structure before the fire.",
+    "bn": "বদরগঞ্জের কালী মন্দিরে ১৪ অক্টোবর ২০২৩ রাত ২টায় আগুন লাগানো হয়। ভিডিওতে আগুনের আগে একাধিক ব্যক্তিকে ভবনের দিকে যেতে দেখা যায়।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Temple pre-dating 1947 Partition; 200-year-old idol destroyed",
+        "bn": "১৯৪৭-এর আগের মন্দির; ২০০ বছরের পুরনো মূর্তি ধ্বংস"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "Seven arrests; charge sheet filed after 60 days",
+        "bn": "সাতজন গ্রেপ্তার; ৬০ দিন পর অভিযোগপত্র দাখিল"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "NHRC issued formal notice to district administration",
+        "bn": "এনএইচআরসি জেলা প্রশাসনকে আনুষ্ঠানিক নোটিশ দিয়েছে"
+      }
+    }
+  ],
+  "victimsCount": 0,
+  "accusedCount": 7,
+  "severity": "serious",
+  "locationAddress": {
+    "en": "Badarganj, Rangpur",
+    "bn": "বদরগঞ্জ, রংপুর"
+  },
+  "locationLat": 25.67,
+  "locationLng": 89.053,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.521+00:00",
+  "crimeType": "minority_persecution",
+  "district": "Rangpur",
+  "districtBn": "রংপুর",
+  "court": "Rangpur District & Sessions Judge Court",
+  "incidentDate": "2023-10-14",
+  "status": "trial_in_progress",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2023-11-01T03:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.580843+00:00",
+  "lastUpdatedAt": "2024-04-10T04:00:00+00:00",
+  "publishedAt": "2023-11-01T03:00:00+00:00",
+  "daysSinceIncident": 1008,
+  "daysSinceLastUpdate": 829,
+  "people": [],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000010",
+      "caseId": "20000000-0000-0000-0000-000000000006",
+      "kind": "media_report",
+      "occurredAt": "2023-10-14",
+      "title": {
+        "en": "Temple set on fire; video shared on social media",
+        "bn": "মন্দিরে আগুন; সামাজিক মাধ্যমে ভিডিও"
+      },
+      "body": {
+        "en": "The Kali Mandir was set ablaze at 2 AM on 14 October. A mobile phone video showed individuals approaching before the fire. Local administration initially called it accidental.",
+        "bn": "কালী মন্দিরে ১৪ অক্টোবর ভোর ২টায় আগুন লাগানো হয়। স্থানীয় প্রশাসন প্রথমে একে দুর্ঘটনা বলে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000011",
+      "caseId": "20000000-0000-0000-0000-000000000006",
+      "kind": "arrest_made",
+      "occurredAt": "2023-10-17",
+      "title": {
+        "en": "Seven arrested following video evidence",
+        "bn": "ভিডিও প্রমাণের ভিত্তিতে সাতজন গ্রেপ্তার"
+      },
+      "body": {
+        "en": "Seven individuals were arrested based on video evidence and witness statements. Authorities reversed their accidental-fire assessment.",
+        "bn": "ভিডিও প্রমাণ ও সাক্ষীর বিবৃতিতে সাতজন গ্রেপ্তার। কর্তৃপক্ষ দুর্ঘটনার মূল্যায়ন বাতিল করে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000012",
+      "caseId": "20000000-0000-0000-0000-000000000006",
+      "kind": "charge_sheet_submitted",
+      "occurredAt": "2023-12-14",
+      "title": {
+        "en": "Charge sheet filed 60 days after arson",
+        "bn": "অগ্নিসংযোগের ৬০ দিন পর অভিযোগপত্র"
+      },
+      "body": {
+        "en": "Rangpur police filed a charge sheet naming seven accused. Trial proceedings commenced.",
+        "bn": "রংপুর পুলিশ সাত আসামির বিরুদ্ধে অভিযোগপত্র দাখিল করে। বিচার কার্যক্রম শুরু।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-00000000000d",
+      "caseId": "20000000-0000-0000-0000-000000000006",
+      "kind": "news_report",
+      "title": "Hindu temple burned in Rangpur on eve of Kali Puja",
+      "publisher": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/bangladesh/crime/news-dev-006",
+      "publishedAt": "2023-10-15",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-00000000000e",
+      "caseId": "20000000-0000-0000-0000-000000000006",
+      "kind": "official_statement",
+      "title": "NHRC issues formal notice to Rangpur administration over temple arson",
+      "publisher": "Bangladesh Sangbad Sangstha",
+      "url": "https://bssnews.net/news/dev-006",
+      "publishedAt": "2023-10-20",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000005",
+      "slug": "minority-persecution",
+      "label": {
+        "en": "Minority Persecution",
+        "bn": "সংখ্যালঘু নির্যাতন"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

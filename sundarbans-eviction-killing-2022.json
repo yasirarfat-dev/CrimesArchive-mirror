@@ -1,0 +1,169 @@
+{
+  "id": "20000000-0000-0000-0000-000000000005",
+  "slug": "sundarbans-eviction-killing-2022",
+  "title": {
+    "en": "Sundarbans Buffer Zone Eviction Killing",
+    "bn": "সুন্দরবন বাফার জোন উচ্ছেদ হত্যা"
+  },
+  "summary": {
+    "en": "A farmer protesting a land eviction in the Sundarbans buffer zone was shot and killed by unidentified men. The local administration has not commented.",
+    "bn": "সুন্দরবন বাফার জোনে ভূমি উচ্ছেদের প্রতিবাদকারী একজন কৃষক অজ্ঞাত ব্যক্তিদের গুলিতে নিহত হন।"
+  },
+  "incidentContext": {
+    "en": "Salim Mia and eleven other farming families had cultivated plots in the buffer zone for over two generations. A formal eviction notice arrived in March 2022; three protests were organised before the shooting.",
+    "bn": "সালিম মিয়া ও আরও এগারোটি কৃষক পরিবার দুই প্রজন্মেরও বেশি সময় ধরে বাফার জোনে জমি চাষ করছিল।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Victim was leading a march of 40 farmers when shot",
+        "bn": "ভুক্তভোগী ৪০ জন কৃষকের মিছিলে নেতৃত্ব দিচ্ছিলেন যখন গুলি করা হয়"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "No suspects arrested; investigation transferred to Khulna Sadar",
+        "bn": "কোনো সন্দেহভাজন গ্রেপ্তার হয়নি; তদন্ত খুলনা সদরে স্থানান্তর"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "Forest Department denied issuing an eviction notice",
+        "bn": "বন বিভাগ উচ্ছেদ নোটিশ দেওয়ার বিষয়টি অস্বীকার করেছে"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 0,
+  "severity": "grave",
+  "locationAddress": {
+    "en": "Koyra Upazila, Khulna",
+    "bn": "কয়রা উপজেলা, খুলনা"
+  },
+  "locationLat": 22.33,
+  "locationLng": 89.29,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.409+00:00",
+  "crimeType": "land_grabbing",
+  "district": "Khulna",
+  "districtBn": "খুলনা",
+  "court": null,
+  "incidentDate": "2022-06-20",
+  "status": "suspect_at_large",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2022-07-15T05:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.466521+00:00",
+  "lastUpdatedAt": "2023-09-01T04:00:00+00:00",
+  "publishedAt": "2022-07-15T05:00:00+00:00",
+  "daysSinceIncident": 1489,
+  "daysSinceLastUpdate": 1051,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000006",
+      "caseId": "20000000-0000-0000-0000-000000000005",
+      "role": "victim",
+      "nameEn": "Salim Mia",
+      "nameBn": "সালিম মিয়া",
+      "age": 47,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Farmer",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-00000000000e",
+      "caseId": "20000000-0000-0000-0000-000000000005",
+      "kind": "media_report",
+      "occurredAt": "2022-06-20",
+      "title": {
+        "en": "Farmer shot during buffer zone protest march",
+        "bn": "বাফার জোন মিছিলে কৃষক গুলিবিদ্ধ"
+      },
+      "body": {
+        "en": "Salim Mia was leading a march of 40 farmers when unidentified men opened fire. He was pronounced dead at Koyra Upazila Health Complex.",
+        "bn": "সালিম মিয়া ৪০ কৃষকের মিছিলে নেতৃত্ব দিচ্ছিলেন যখন অজ্ঞাতরা গুলি চালায়।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-00000000000f",
+      "caseId": "20000000-0000-0000-0000-000000000005",
+      "kind": "editorial_note",
+      "occurredAt": "2022-10-25",
+      "title": {
+        "en": "No arrests four months after shooting",
+        "bn": "গুলির চার মাস পর কোনো গ্রেপ্তার নেই"
+      },
+      "body": {
+        "en": "Police confirm no suspects have been identified or arrested. Case file transferred from Koyra to Khulna Sadar.",
+        "bn": "পুলিশ নিশ্চিত করেছে কোনো সন্দেহভাজন চিহ্নিত হয়নি। মামলার নথি কয়রা থেকে খুলনা সদরে স্থানান্তর।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-00000000000b",
+      "caseId": "20000000-0000-0000-0000-000000000005",
+      "kind": "news_report",
+      "title": "Farmer shot dead during Sundarbans buffer zone protest",
+      "publisher": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/bangladesh/crime/news-dev-005",
+      "publishedAt": "2022-06-22",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-00000000000c",
+      "caseId": "20000000-0000-0000-0000-000000000005",
+      "kind": "news_report",
+      "title": "No arrest four months after Koyra eviction shooting",
+      "publisher": "Dhaka Tribune",
+      "url": "https://www.dhakatribune.com/bangladesh/crime/news-dev-005b",
+      "publishedAt": "2022-10-25",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000004",
+      "slug": "indigenous-rights",
+      "label": {
+        "en": "Indigenous Rights",
+        "bn": "আদিবাসী অধিকার"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

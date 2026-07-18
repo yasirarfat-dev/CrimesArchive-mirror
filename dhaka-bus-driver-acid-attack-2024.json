@@ -1,0 +1,160 @@
+{
+  "id": "20000000-0000-0000-0000-00000000000a",
+  "slug": "dhaka-bus-driver-acid-attack-2024",
+  "title": {
+    "en": "Dhaka Bus Driver Acid Attack",
+    "bn": "ঢাকা বাস চালক এসিড সন্ত্রাস"
+  },
+  "summary": {
+    "en": "A bus driver who refused to pay an extortion demand was attacked with acid outside his home. Two suspects identified by witnesses remain at large.",
+    "bn": "চাঁদাবাজির দাবিতে অস্বীকার করার পর একজন বাস চালকের বাড়ির বাইরে এসিড নিক্ষেপ করা হয়।"
+  },
+  "incidentContext": {
+    "en": "The victim, Kamrul Hossain, operated a city bus on the Mirpur-Motijheel route. He had received three verbal extortion demands over four weeks before refusing on 6 April 2024.",
+    "bn": "ভুক্তভোগী কামরুল হোসেন মিরপুর-মতিঝিল রুটে একটি সিটি বাস পরিচালনা করতেন। তিনি ৬ এপ্রিল ২০২৪-এ অস্বীকার করার আগে চার সপ্তাহে তিনটি মৌখিক চাঁদার দাবি পেয়েছিলেন।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Victim sustained 40% burns to face, neck and left arm",
+        "bn": "ভুক্তভোগীর মুখ, ঘাড় ও বাম হাতে ৪০% দগ্ধ"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "Two suspects identified but believed to have left Dhaka",
+        "bn": "দুজন সন্দেহভাজন চিহ্নিত কিন্তু ঢাকা ছেড়েছেন বলে ধারণা"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "Acid Survivors Foundation supporting victim",
+        "bn": "অ্যাসিড সারভাইভার্স ফাউন্ডেশন ভুক্তভোগীকে সহায়তা করছে"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 2,
+  "severity": "serious",
+  "locationAddress": {
+    "en": "Mirpur 12, Dhaka",
+    "bn": "মিরপুর ১২, ঢাকা"
+  },
+  "locationLat": 23.8234,
+  "locationLng": 90.3682,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.97+00:00",
+  "crimeType": "political_violence",
+  "district": "Dhaka",
+  "districtBn": "ঢাকা",
+  "court": null,
+  "incidentDate": "2024-04-07",
+  "status": "suspect_at_large",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2024-05-01T04:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:27.02422+00:00",
+  "lastUpdatedAt": "2024-06-10T03:00:00+00:00",
+  "publishedAt": "2024-05-01T04:00:00+00:00",
+  "daysSinceIncident": 832,
+  "daysSinceLastUpdate": 768,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-00000000000a",
+      "caseId": "20000000-0000-0000-0000-00000000000a",
+      "role": "victim",
+      "nameEn": "Kamrul Hossain",
+      "nameBn": "কামরুল হোসেন",
+      "age": 36,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Bus driver",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000019",
+      "caseId": "20000000-0000-0000-0000-00000000000a",
+      "kind": "media_report",
+      "occurredAt": "2024-04-07",
+      "title": {
+        "en": "Bus driver attacked with acid after refusing extortion",
+        "bn": "চাঁদা না দেওয়ায় বাস চালকের উপর এসিড"
+      },
+      "body": {
+        "en": "Kamrul Hossain was attacked outside his Mirpur 12 home at approximately 22:00. Admitted to Dhaka Medical College Hospital with 40% burns.",
+        "bn": "কামরুল হোসেনকে মিরপুর ১২-এ বাড়ির বাইরে রাত ১০টায় এসিড নিক্ষেপ করা হয়। ৪০% দগ্ধ হয়ে ঢাকা মেডিকেলে ভর্তি।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-00000000001a",
+      "caseId": "20000000-0000-0000-0000-00000000000a",
+      "kind": "editorial_note",
+      "occurredAt": "2024-06-10",
+      "title": {
+        "en": "Suspects identified but at large",
+        "bn": "সন্দেহভাজন চিহ্নিত কিন্তু পলাতক"
+      },
+      "body": {
+        "en": "Two suspects identified from witness accounts; police believe both have left Dhaka. A red notice has been requested from immigration authorities.",
+        "bn": "সাক্ষীর বিবৃতি থেকে দুজন চিহ্নিত; পুলিশ মনে করে উভয়ই ঢাকা ছেড়েছেন। ইমিগ্রেশন কর্তৃপক্ষের কাছে রেড নোটিশ চাওয়া হয়েছে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000015",
+      "caseId": "20000000-0000-0000-0000-00000000000a",
+      "kind": "news_report",
+      "title": "Dhaka bus driver attacked with acid after refusing extortion demand",
+      "publisher": "Prothom Alo",
+      "url": "https://www.prothomalo.com/bangladesh/crime/news-dev-010",
+      "publishedAt": "2024-04-08",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000016",
+      "caseId": "20000000-0000-0000-0000-00000000000a",
+      "kind": "news_report",
+      "title": "Mirpur acid attack: witnesses identify two suspects who have fled Dhaka",
+      "publisher": "New Age",
+      "url": "https://www.newagebd.net/article/news-dev-010",
+      "publishedAt": "2024-04-12",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

@@ -1,0 +1,192 @@
+{
+  "id": "20000000-0000-0000-0000-000000000008",
+  "slug": "khulna-labour-organizer-2024",
+  "title": {
+    "en": "Khulna Labour Organizer Disappearance",
+    "bn": "খুলনা শ্রমিক সংগঠক গুম"
+  },
+  "summary": {
+    "en": "A labour-rights organizer was last seen leaving a workplace meeting. His phone has not been used since. Family received an unsigned warning two days later.",
+    "bn": "একজন শ্রম অধিকার সংগঠকের সর্বশেষ অবস্থান একটি কর্মস্থলের বৈঠক ছেড়ে যাওয়ার সময়। তার ফোন আর ব্যবহৃত হয়নি।"
+  },
+  "incidentContext": {
+    "en": "Mizan Sarker was a senior organizer with a registered trade union representing workers at three jute mills in the Khalishpur industrial zone. He had been coordinating a collective-bargaining process at the time of his disappearance.",
+    "bn": "মিজান সরকার খালিশপুর শিল্প এলাকার তিনটি পাটকলের শ্রমিকদের প্রতিনিধিত্বকারী একটি নিবন্ধিত ট্রেড ইউনিয়নের সিনিয়র সংগঠক ছিলেন।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Last confirmed location: outside Khalishpur Labour Office at 19:40 on 14 Feb 2024",
+        "bn": "সর্বশেষ নিশ্চিত অবস্থান: ১৪ ফেব্রুয়ারি ২০২৪ সন্ধ্যা ৭:৪০-এ খালিশপুর শ্রম অফিসের বাইরে"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "Unsigned note warned family against pursuing the matter",
+        "bn": "অস্বাক্ষরিত নোটে পরিবারকে বিষয়টি অনুসরণ না করতে সতর্ক করা হয়"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "NHRC investigating; no custodial record found",
+        "bn": "এনএইচআরসি তদন্ত করছে; কোনো হেফাজত রেকর্ড পাওয়া যায়নি"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 0,
+  "severity": "grave",
+  "locationAddress": {
+    "en": "Khalishpur, Khulna",
+    "bn": "খালিশপুর, খুলনা"
+  },
+  "locationLat": 22.8456,
+  "locationLng": 89.5403,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.745+00:00",
+  "crimeType": "enforced_disappearance",
+  "district": "Khulna",
+  "districtBn": "খুলনা",
+  "court": null,
+  "incidentDate": "2024-02-14",
+  "status": "investigation_ongoing",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2024-03-01T04:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.803604+00:00",
+  "lastUpdatedAt": "2024-06-10T05:00:00+00:00",
+  "publishedAt": "2024-03-01T04:00:00+00:00",
+  "daysSinceIncident": 885,
+  "daysSinceLastUpdate": 768,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000008",
+      "caseId": "20000000-0000-0000-0000-000000000008",
+      "role": "victim",
+      "nameEn": "Mizan Sarker",
+      "nameBn": "মিজান সরকার",
+      "age": 44,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Trade-union organizer",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000015",
+      "caseId": "20000000-0000-0000-0000-000000000008",
+      "kind": "media_report",
+      "occurredAt": "2024-02-15",
+      "title": {
+        "en": "Union organizer reported missing; family receives threat",
+        "bn": "ইউনিয়ন সংগঠক নিখোঁজ; পরিবার হুমকি পায়"
+      },
+      "body": {
+        "en": "Colleagues reported Mizan Sarker missing after he failed to return from the Khalishpur Labour Office. An unsigned warning note was found at the family home two days later.",
+        "bn": "খালিশপুর শ্রম অফিস থেকে মিজান সরকার না ফেরায় সহকর্মীরা নিখোঁজের বিষয় জানান।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000016",
+      "caseId": "20000000-0000-0000-0000-000000000008",
+      "kind": "editorial_note",
+      "occurredAt": "2024-06-10",
+      "title": {
+        "en": "NHRC inquiry open; 116 days without progress",
+        "bn": "এনএইচআরসি তদন্ত চলছে; ১১৬ দিনেও অগ্রগতি নেই"
+      },
+      "body": {
+        "en": "The NHRC has opened a formal inquiry. No custodial record found. No suspects identified.",
+        "bn": "এনএইচআরসি আনুষ্ঠানিক তদন্ত শুরু করেছে। কোনো হেফাজত রেকর্ড নেই। কোনো সন্দেহভাজন চিহ্নিত হয়নি।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000011",
+      "caseId": "20000000-0000-0000-0000-000000000008",
+      "kind": "news_report",
+      "title": "Khulna union organizer missing; family receives unsigned threat",
+      "publisher": "Dhaka Tribune",
+      "url": "https://www.dhakatribune.com/bangladesh/crime/news-dev-008",
+      "publishedAt": "2024-02-16",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000012",
+      "caseId": "20000000-0000-0000-0000-000000000008",
+      "kind": "news_report",
+      "title": "NHRC opens inquiry into disappearance of Khulna labour leader",
+      "publisher": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/bangladesh/crime/news-dev-008b",
+      "publishedAt": "2024-02-28",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "e9800263-b913-4d7c-b3fa-46c9c44746ce",
+      "caseId": "20000000-0000-0000-0000-000000000008",
+      "kind": "fir",
+      "title": "Fir Demo Doc 12-03-2025",
+      "fileName": "images (3).jpg",
+      "mimeType": "image/jpeg",
+      "sizeBytes": 39549,
+      "pageCount": null,
+      "uploadedAt": "2026-07-09T08:28:14.723688+00:00",
+      "uploadedBy": "b1c058cc-aa29-41ee-8576-3823308bd692",
+      "hasRedaction": false,
+      "previewUrl": "/api/documents/e9800263-b913-4d7c-b3fa-46c9c44746ce"
+    }
+  ],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000001",
+      "slug": "labour-rights",
+      "label": {
+        "en": "Labour Rights",
+        "bn": "শ্রম অধিকার"
+      }
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000003",
+      "slug": "enforced-disappearance",
+      "label": {
+        "en": "Enforced Disappearance",
+        "bn": "গুম"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

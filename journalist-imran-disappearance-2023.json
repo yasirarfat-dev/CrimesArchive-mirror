@@ -1,0 +1,195 @@
+{
+  "id": "20000000-0000-0000-0000-000000000002",
+  "slug": "journalist-imran-disappearance-2023",
+  "title": {
+    "en": "Journalist Imran Hossain Disappearance",
+    "bn": "সাংবাদিক ইমরান হোসেন গুম মামলা"
+  },
+  "summary": {
+    "en": "A regional reporter disappeared after publishing a series on local land transactions. Last seen near his home in the early morning. No arrest record exists.",
+    "bn": "স্থানীয় ভূমি লেনদেন নিয়ে ধারাবাহিক প্রতিবেদন প্রকাশের পর একজন আঞ্চলিক প্রতিবেদক নিখোঁজ হন। সর্বশেষ ভোরে বাড়ির কাছে দেখা গিয়েছিল।"
+  },
+  "incidentContext": {
+    "en": "Imran Hossain had been reporting on a series of contested land deals involving politically connected buyers in Sylhet's Koompaniganj upazila. His last published piece appeared three days before he vanished.",
+    "bn": "ইমরান হোসেন সিলেটের কোম্পানীগঞ্জ উপজেলায় রাজনৈতিকভাবে সংযুক্ত ক্রেতাদের সাথে জড়িত বিতর্কিত ভূমি চুক্তির বিষয়ে প্রতিবেদন করছিলেন।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Last confirmed sighting: CCTV at 05:14 on 8 July 2023",
+        "bn": "সর্বশেষ নিশ্চিত দেখা: ৮ জুলাই ২০২৩ সকাল ৫:১৪-এ সিসিটিভি"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "Phone disconnected since disappearance",
+        "bn": "নিখোঁজ হওয়ার পর থেকে ফোন বন্ধ"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "RSF lodged complaint with UN Working Group on Enforced Disappearances",
+        "bn": "আরএসএফ জাতিসংঘের গুম বিষয়ক ওয়ার্কিং গ্রুপে অভিযোগ করেছে"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 0,
+  "severity": "grave",
+  "locationAddress": {
+    "en": "Koompaniganj, Sylhet",
+    "bn": "কোম্পানীগঞ্জ, সিলেট"
+  },
+  "locationLat": 24.8949,
+  "locationLng": 91.8687,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.006+00:00",
+  "crimeType": "journalist_targeting",
+  "district": "Sylhet",
+  "districtBn": "সিলেট",
+  "court": null,
+  "incidentDate": "2023-07-08",
+  "status": "investigation_stalled",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2023-08-01T04:00:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.078791+00:00",
+  "lastUpdatedAt": "2024-03-15T05:00:00+00:00",
+  "publishedAt": "2023-08-01T04:00:00+00:00",
+  "daysSinceIncident": 1106,
+  "daysSinceLastUpdate": 855,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000003",
+      "caseId": "20000000-0000-0000-0000-000000000002",
+      "role": "victim",
+      "nameEn": "Imran Hossain",
+      "nameBn": "ইমরান হোসেন",
+      "age": 38,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Journalist",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-000000000004",
+      "caseId": "20000000-0000-0000-0000-000000000002",
+      "kind": "media_report",
+      "occurredAt": "2023-07-10",
+      "title": {
+        "en": "Colleagues and family report disappearance to police",
+        "bn": "সহকর্মী ও পরিবার পুলিশকে নিখোঁজের বিষয় জানায়"
+      },
+      "body": {
+        "en": "His last article was published on 5 July, three days before he vanished. Phone last active at 05:14 AM on 8 July.",
+        "bn": "তার শেষ নিবন্ধটি ৫ জুলাই প্রকাশিত হয়েছিল, নিখোঁজ হওয়ার তিন দিন আগে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000005",
+      "caseId": "20000000-0000-0000-0000-000000000002",
+      "kind": "editorial_note",
+      "occurredAt": "2023-08-15",
+      "title": {
+        "en": "RSF lodges complaint with UN Working Group",
+        "bn": "আরএসএফ জাতিসংঘ ওয়ার্কিং গ্রুপে অভিযোগ করে"
+      },
+      "body": {
+        "en": "Reporters Without Borders submitted a formal complaint to the UN Working Group on Enforced Disappearances under its urgent action procedure.",
+        "bn": "রিপোর্টার্স উইদাউট বর্ডার্স জাতিসংঘের গুম বিষয়ক ওয়ার্কিং গ্রুপে জরুরি ব্যবস্থার অধীনে অভিযোগ দায়ের করে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-000000000006",
+      "caseId": "20000000-0000-0000-0000-000000000002",
+      "kind": "editorial_note",
+      "occurredAt": "2024-03-15",
+      "title": {
+        "en": "Investigation stalled; 256 days without progress",
+        "bn": "তদন্ত থমকে; ২৫৬ দিন অগ্রগতি নেই"
+      },
+      "body": {
+        "en": "Police confirm no custodial records found and no suspects identified. Family has not received any update from the investigating officer.",
+        "bn": "পুলিশ নিশ্চিত করেছে কোনো হেফাজত রেকর্ড পাওয়া যায়নি। পরিবার তদন্তকারী কর্মকর্তার কাছ থেকে কোনো আপডেট পায়নি।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000004",
+      "caseId": "20000000-0000-0000-0000-000000000002",
+      "kind": "news_report",
+      "title": "Sylhet reporter missing after land-deal investigation series",
+      "publisher": "Prothom Alo",
+      "url": "https://www.prothomalo.com/bangladesh/crime/news-dev-002",
+      "publishedAt": "2023-07-10",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-000000000005",
+      "caseId": "20000000-0000-0000-0000-000000000002",
+      "kind": "news_report",
+      "title": "RSF lodges complaint over missing Bangladesh journalist Imran Hossain",
+      "publisher": "New Age",
+      "url": "https://www.newagebd.net/article/news-dev-002",
+      "publishedAt": "2023-08-15",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000003",
+      "slug": "enforced-disappearance",
+      "label": {
+        "en": "Enforced Disappearance",
+        "bn": "গুম"
+      }
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000007",
+      "slug": "press-freedom",
+      "label": {
+        "en": "Press Freedom",
+        "bn": "সংবাদ স্বাধীনতা"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}

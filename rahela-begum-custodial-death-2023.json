@@ -1,0 +1,187 @@
+{
+  "id": "20000000-0000-0000-0000-000000000004",
+  "slug": "rahela-begum-custodial-death-2023",
+  "title": {
+    "en": "Rahela Begum Custodial Death",
+    "bn": "রাহেলা বেগম হেফাজতে মৃত্যু"
+  },
+  "summary": {
+    "en": "A 34-year-old woman died in police custody the same night she was detained on a non-bailable charge. Family alleges visible injuries inconsistent with the officers' account.",
+    "bn": "৩৪ বছর বয়সী একজন নারী জামিনঅযোগ্য অভিযোগে আটক হওয়ার রাতেই পুলিশ হেফাজতে মারা যান।"
+  },
+  "incidentContext": {
+    "en": "Rahela Begum was detained on the evening of 2 November 2023 following a dispute over a land boundary in Hathazari. The station house officer recorded her death as \"cardiac arrest\" at 02:30 the following morning.",
+    "bn": "রাহেলা বেগমকে ২ নভেম্বর ২০২৩ সন্ধ্যায় হাটহাজারীতে একটি জমির সীমানা বিরোধের পর আটক করা হয়।"
+  },
+  "incidentDescription": null,
+  "keyFacts": [
+    {
+      "label": {
+        "en": "Fact 1",
+        "bn": "তথ্য 1"
+      },
+      "value": {
+        "en": "Post-mortem report noted blunt-force injuries to the torso",
+        "bn": "ময়নাতদন্ত প্রতিবেদনে বুকে ভোঁতা আঘাতের উল্লেখ"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 2",
+        "bn": "তথ্য 2"
+      },
+      "value": {
+        "en": "Station CCTV unavailable due to technical fault",
+        "bn": "প্রযুক্তিগত ত্রুটির কারণে থানার সিসিটিভি পাওয়া যাচ্ছে না"
+      }
+    },
+    {
+      "label": {
+        "en": "Fact 3",
+        "bn": "তথ্য 3"
+      },
+      "value": {
+        "en": "Three officers under suspension",
+        "bn": "তিন কর্মকর্তা বরখাস্ত"
+      }
+    }
+  ],
+  "victimsCount": 1,
+  "accusedCount": 3,
+  "severity": "grave",
+  "locationAddress": {
+    "en": "Hathazari Police Station, Chattogram",
+    "bn": "হাটহাজারী থানা, চট্টগ্রাম"
+  },
+  "locationLat": 22.3569,
+  "locationLng": 91.7832,
+  "geo": null,
+  "isForgottenFlagged": true,
+  "forgottenFlaggedAt": "2026-07-18T09:13:26.299+00:00",
+  "crimeType": "custodial_death",
+  "district": "Chattogram",
+  "districtBn": "চট্টগ্রাম",
+  "court": "Chattogram Chief Metropolitan Magistrate Court",
+  "incidentDate": "2023-11-02",
+  "status": "investigation_ongoing",
+  "editorialStatus": "published",
+  "published": true,
+  "underDispute": false,
+  "versionNumber": 1,
+  "orgId": "00000000-0000-0000-0000-000000000001",
+  "createdAt": "2023-12-01T04:30:00+00:00",
+  "updatedAt": "2026-07-18T09:13:26.357421+00:00",
+  "lastUpdatedAt": "2024-05-20T07:00:00+00:00",
+  "publishedAt": "2023-12-01T04:30:00+00:00",
+  "daysSinceIncident": 989,
+  "daysSinceLastUpdate": 789,
+  "people": [
+    {
+      "id": "50000000-0000-0000-0000-000000000005",
+      "caseId": "20000000-0000-0000-0000-000000000004",
+      "role": "victim",
+      "nameEn": "Rahela Begum",
+      "nameBn": "রাহেলা বেগম",
+      "age": 34,
+      "isMinor": false,
+      "anonymized": false,
+      "redactionReason": null,
+      "occupation": "Domestic worker",
+      "notes": null
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "40000000-0000-0000-0000-00000000000b",
+      "caseId": "20000000-0000-0000-0000-000000000004",
+      "kind": "media_report",
+      "occurredAt": "2023-11-03",
+      "title": {
+        "en": "Death in custody reported; station says cardiac arrest",
+        "bn": "হেফাজতে মৃত্যু; থানা বলছে হার্ট অ্যাটাক"
+      },
+      "body": {
+        "en": "Rahela Begum was found unresponsive at 02:30 AM. The station recorded the cause as cardiac arrest. Family disputes this.",
+        "bn": "রাহেলা বেগম ভোর ২:৩০টায় অজ্ঞান অবস্থায় পাওয়া যান। থানা মৃত্যুর কারণ হার্ট অ্যাটাক হিসেবে নথিভুক্ত করে।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-00000000000c",
+      "caseId": "20000000-0000-0000-0000-000000000004",
+      "kind": "fir_filed",
+      "occurredAt": "2023-11-05",
+      "title": {
+        "en": "Family files FIR against three officers",
+        "bn": "তিন কর্মকর্তার বিরুদ্ধে পরিবারের এফআইআর"
+      },
+      "body": {
+        "en": "Family members filed an FIR against three duty officers. The post-mortem report noted blunt-force injuries to the torso.",
+        "bn": "পরিবার তিন ডিউটি কর্মকর্তার বিরুদ্ধে এফআইআর দায়ের করেন। ময়নাতদন্ত প্রতিবেদনে বুকে ভোঁতা আঘাতের উল্লেখ।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    },
+    {
+      "id": "40000000-0000-0000-0000-00000000000d",
+      "caseId": "20000000-0000-0000-0000-000000000004",
+      "kind": "editorial_note",
+      "occurredAt": "2024-05-20",
+      "title": {
+        "en": "Three officers suspended; departmental inquiry ongoing",
+        "bn": "তিন কর্মকর্তা সাময়িক বরখাস্ত; বিভাগীয় তদন্ত চলছে"
+      },
+      "body": {
+        "en": "A departmental inquiry was opened by the Chattogram range DIG. Three duty officers placed under suspension. Criminal investigation still pending.",
+        "bn": "চট্টগ্রাম রেঞ্জ ডিআইজি বিভাগীয় তদন্ত শুরু করেছেন। তিন কর্মকর্তা সাময়িক বরখাস্ত। ফৌজদারি তদন্ত এখনো বিচারাধীন।"
+      },
+      "sourceIds": [],
+      "recordedAt": "2026-06-22T11:14:41.573948+00:00",
+      "recordedBy": null,
+      "isPostponement": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "30000000-0000-0000-0000-000000000009",
+      "caseId": "20000000-0000-0000-0000-000000000004",
+      "kind": "news_report",
+      "title": "Chattogram woman dies in custody; family demands independent inquiry",
+      "publisher": "Prothom Alo",
+      "url": "https://www.prothomalo.com/bangladesh/crime/news-dev-004",
+      "publishedAt": "2023-11-04",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    },
+    {
+      "id": "30000000-0000-0000-0000-00000000000a",
+      "caseId": "20000000-0000-0000-0000-000000000004",
+      "kind": "news_report",
+      "title": "Hathazari custodial death: post-mortem reveals blunt-force injuries",
+      "publisher": "New Age",
+      "url": "https://www.newagebd.net/article/news-dev-004",
+      "publishedAt": "2023-11-08",
+      "retrievedAt": "2026-06-22T11:14:41.573948+00:00",
+      "verifiedBy": null
+    }
+  ],
+  "documents": [],
+  "tags": [
+    {
+      "id": "10000000-0000-0000-0000-000000000002",
+      "slug": "custodial-violence",
+      "label": {
+        "en": "Custodial Violence",
+        "bn": "হেফাজতে নির্যাতন"
+      }
+    }
+  ],
+  "disputeMarker": null,
+  "relatedCaseIds": [],
+  "followCount": 0
+}
