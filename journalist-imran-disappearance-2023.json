@@ -73,7 +73,7 @@
   "updatedAt": "2026-07-18T09:13:26.078791+00:00",
   "lastUpdatedAt": "2024-03-15T05:00:00+00:00",
   "publishedAt": "2023-08-01T04:00:00+00:00",
-  "daysSinceIncident": 1125,
+  "daysSinceIncident": 1126,
   "daysSinceLastUpdate": 874,
   "people": [
     {
@@ -173,19 +173,19 @@
   "documents": [],
   "tags": [
     {
-      "id": "10000000-0000-0000-0000-000000000003",
-      "slug": "enforced-disappearance",
-      "label": {
-        "en": "Enforced Disappearance",
-        "bn": "গুম"
-      }
-    },
-    {
       "id": "10000000-0000-0000-0000-000000000007",
       "slug": "press-freedom",
       "label": {
         "en": "Press Freedom",
         "bn": "সংবাদ স্বাধীনতা"
+      }
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000003",
+      "slug": "enforced-disappearance",
+      "label": {
+        "en": "Enforced Disappearance",
+        "bn": "গুম"
       }
     }
   ],
